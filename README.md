@@ -7,3 +7,5 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hikaru122700&theme=gruvbox)
+
+![](https://raw.githubusercontent.com/hikaru122700/hikaru122700/output/github-contribution-grid-snake.svg)
