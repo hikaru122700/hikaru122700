@@ -29,12 +29,22 @@ status:    learning & building
 
 <div align="center">
 
+### `> current_streak --highlight`
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=hikaru122700&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=ff79c6&currStreakLabel=8a2be2&sideNums=ffffff&currStreakNum=ff79c6&sideLabels=8a2be2&dates=c9d1d9&card_width=900&card_height=240" width="92%" alt="streak"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ### `> stats --theme=tokyonight`
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikaru122700&theme=tokyonight" width="98%"/>
-
-<img src="https://github-readme-stats.hackclub.dev/api?username=hikaru122700&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=hikaru122700&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" width="49%"/>
+<img src="https://github-readme-stats.hackclub.dev/api?username=hikaru122700&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&card_width=500&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikaru122700&theme=tokyonight" width="49%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hikaru122700&theme=tokyonight" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hikaru122700&theme=tokyonight" width="49%"/>
