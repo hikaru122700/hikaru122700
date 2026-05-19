@@ -33,8 +33,8 @@ status:    learning & building
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikaru122700&theme=tokyonight" width="98%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hikaru122700&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hikaru122700&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" width="49%"/>
+<img src="https://github-readme-stats.hackclub.dev/api?username=hikaru122700&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=hikaru122700&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" width="49%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hikaru122700&theme=tokyonight" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hikaru122700&theme=tokyonight" width="49%"/>
